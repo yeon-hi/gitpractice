@@ -5,6 +5,7 @@ public class App {
 		System.out.println("애플리케이션 시작");
 		System.out.println("실행문 1");
 		System.out.println("실행문 2");
+		System.out.println("실행문 3");
 
 
 	}
